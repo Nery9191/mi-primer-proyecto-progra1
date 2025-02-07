@@ -1,0 +1,5 @@
+1- habia utilizado git antes, ahora aprendi el tema de las ramas, como fusionarlas y trabajar con ellas.
+2- Trabajo individual 
+3- Ventajas de GIT, es como tener una hoja de vida que presenta mi trabajo realizado en programacion, lo cual
+podria ayudarme en el ambito laboral, puedo tener un historico de las modificaciones del codigo y volver a versiones
+atenriores si hubiera algun fallo en el codigo. 
