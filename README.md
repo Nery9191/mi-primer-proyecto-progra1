@@ -4,3 +4,5 @@ Este es un proyecto de practia para aprender GIT y uso del Dash de GitHub, apren
 para poder actualizar los repositorios, crear ramas.
 
 Integrante: Nery Osberto Esquivel Palma 
+
+Cambio # dentro de la rama de Nery
